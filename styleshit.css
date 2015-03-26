@@ -1,0 +1,17 @@
+body{
+	background-image: url(pics/gorillaz.png);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#title{
+	font-family: 'Roboto' sans-serif;
+	text-align: center;
+	padding-top: 100px;
+	font-size: 3em;
+	opacity: 0.8;
+	color: rgb(218, 214, 30);
+}
